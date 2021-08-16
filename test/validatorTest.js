@@ -1,3 +1,0 @@
-const jwt = require('jsonwebtoken')
-const value = jwt.verify('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTE4Yzg2OWM0YjQxZTIyYzgyZWJlZTMiLCJlbWFpbCI6ImtydXRoaWtnb3dkYTYzNEBnbWFpbC5jb20iLCJ1c2VyTmFtZSI6ImtydXRoaWsiLCJpYXQiOjE2MjkwMTQyNTMsImV4cCI6MTYyOTE4NzA1M30.JQ-WhlK4i4p7iCozFOD0RUSLDRRSYCGmZffe_bgZKjs','kishan2001')
-console.log(value)
